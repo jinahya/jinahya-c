@@ -1,8 +1,8 @@
 #include <jni.h>
 //#include <stdint.h>
 
-#ifndef COM_GITHUB_JINAHUA_ARRAY_H
-#define COM_GITHUB_JINAHUA_ARRAY_H
+#ifndef COM_GITHUB_JINAHYA_ARRAY_H
+#define COM_GITHUB_JINAHYA_ARRAY_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -14,4 +14,4 @@ extern "C" {
 }
 #endif
 
-#endif /* COM_GITHUB_JINAHUA_ARRAY_H */
+#endif /* COM_GITHUB_JINAHYA_ARRAY_H */
